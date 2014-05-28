@@ -24,12 +24,6 @@ To use _animate.scss in your website, simply drop the `_animate.scss` file into 
 }
 ```
 
-You can do a whole bunch of other stuff with animate.css when you combine it with jQuery or add your own CSS rules. Dynamically add animations using jQuery with ease:
-
-```javascript
-$('#yourElement').addClass('animated bounceOutLeft');
-```
-
 You can also detect when an animation ends:
 
 <!--
@@ -58,6 +52,3 @@ You can change the duration of your animations, add a delay or change the number
 
 ## License
 _animate.scss is licensed under the MIT license. (http://opensource.org/licenses/MIT)
-
-## Contributing
-Pull requests are the way to go here. I apologise in advance for the slow action on pull requests and issues. I only have two rules for submitting a pull request: match the naming convention (camelCase, categorised [fades, bounces, etc]) and let us see a demo of submitted animations in a [pen](http://codepen.io). That last one is important.
