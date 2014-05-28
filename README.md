@@ -14,10 +14,11 @@ To use _animate.scss in your website, simply drop the `_animate.scss` file into 
 ```
 
 ```scss
+//_some-partial.scss
 .some-element {
   //
   // element styles
-  //
+  // ...
   @extend %animated;
   @extend %fadeIn;
 }
