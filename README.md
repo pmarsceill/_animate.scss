@@ -1,7 +1,7 @@
 #_animate.scss
 *Just-add-water CSS animation powered by silent SCSS extends*
 
-This is a fork of Dan Eden's wonderful Animate.css repo. I have modified it to use silent SCSS extends so that all animations are always available, but only those that are used will be printed in a projects compiled css file.
+This is a fork of Dan Eden's wonderful [Animate.css repo](https://github.com/daneden/animate.css). I have modified it to use silent SCSS extends so that all animations are always available, but only those that are used will be printed in a projects compiled css file.
 
 `_animate.scss` is a bunch of cool, fun, and cross-browser animations for you to use in your projects. Great for emphasis, home pages, sliders, and general just-add-water-awesomeness.
 
